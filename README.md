@@ -2,7 +2,7 @@
 
 ### Olá, seja bem vindo ao meu perfil!
 
-### Aqui você encontrará projetos e meus aprendizados em diversas linguagens de programação com um enfoque em tecnologias Web como: 
+### Aqui você encontrará projetos e meus aprendizados em diversas linguagens de programação com objetivo em tecnologias Web como: 
 ##### Frameworks Front-End (ReactJs, VueJs, NextJs, Angular9, ...) 
 ##### Bibliotecas Back-End (NodeJs, Symphony-PHP, Rails, ...)
 ##### Ferramentas (Bootstrap, Bulma)
