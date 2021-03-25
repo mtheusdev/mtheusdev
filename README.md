@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-### Olá, seja bem vindo ao meu perfil!
-
 ### Aqui você encontrará projetos e meus aprendizados em diversas linguagens de programação focando principalmente em tecnologias Web: 
 ##### Frameworks Front-End (ReactJs, VueJs, NextJs, Angular9, ...) 
 ##### Bibliotecas Back-End (NodeJs, Symphony-PHP, Rails, ...)
