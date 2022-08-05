@@ -1,8 +1,8 @@
-### Olá, seja bem vindo ao meu perfil!👋
+### Hello, welcome to my profile!👋
 
- - 🏫 UDESC - Bacharelado em Ciência da Computação
- - 🤖 Atualmente estou estudando Machine Learning & Python3
- - ⚛️ Gosto muito de trabalhar com ReactJS e React Native 📱
+ - 🏫 UDESC - Bachelor's Degree in Computer Science
+ - 🤖 Currently studying Machine Learning & Python3
+ - ⚛️ I really like working with ReactJS and React Native 📱
 
 <div align="center">
   <a href="https://github.com/mtheusdev">
@@ -12,7 +12,7 @@
   
 ---
   <div style="display:inline-block">
-  <h3>Tenho conhecimento ou já trabalhei com:</h3>
+  <h3>I have knowledge or have worked with:</h3>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -40,7 +40,7 @@
   
 ---
   <div>
-    <h3>Contato</h3>
+    <h3>Contact</h3>
     <a href = "mailto:matheushenriquesantoscct@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/matheus-henrique-5072691b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   </div>
