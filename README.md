@@ -4,11 +4,7 @@
  - 🤖 Currently studying Machine Learning & Python3
  - ⚛️ I really like working with ReactJS and React Native 📱
 
-<div align="center">
-  <a href="https://github.com/mtheusdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mtheusdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=Github Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtheusdev&layout=compact&langs_count=8&theme=dark"/>
-</div>
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=mtheusdev&show_icons=true&theme=dracula&count_private=true)
   
 ---
   <div style="display:inline-block">
